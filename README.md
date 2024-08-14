@@ -21,4 +21,4 @@ O projeto final consistiu na implementação de um editor de texto baseado em co
 
 ## Nota de Responsabilidade 📜
 
-Este repositório foi desenvolvido como parte do curso Princípios de Desenvolvimento de Algoritmos. O uso deste material é de responsabilidade do usuário. Recomendo que o conteúdo seja utilizado como referência e que o código seja adaptado conforme as necessidades específicas de cada usuário.
+O uso deste material é de responsabilidade do usuário. Não me responsabilizo por plágio ou uso indevido. Para mais detalhes, consulte a [licença](LICENSE.md).
